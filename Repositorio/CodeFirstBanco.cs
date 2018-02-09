@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using modelobasicoefjwt.Models;
 
@@ -12,13 +13,15 @@ namespace modelobasicoefjwt.Repositorio
             var usuario = new Usuario(){
                 Nome = "Fernando",
                 Email = "fernando.guerra@corujasdev.com.br",
-                Senha = "123456"
+                Senha = "123456",
+                DataNascimento = Convert.ToDateTime("10-10-1978"),
+                Cpf = "089.295.328-45"
             };
 
             contexto.Usuarios.Add(usuario);
 
             var permissao = new Permissao(){
-                Nome = "Financeiro"
+                Nome = "Conversor"
             };
 
             contexto.Permissoes.Add(permissao);

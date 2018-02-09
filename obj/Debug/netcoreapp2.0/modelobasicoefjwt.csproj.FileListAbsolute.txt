@@ -8,3 +8,13 @@ C:\Users\fernando.henrique\backend\modelobasicoefjwt\obj\Debug\netcoreapp2.0\mod
 C:\Users\fernando.henrique\backend\modelobasicoefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.AssemblyInfo.cs
 C:\Users\fernando.henrique\backend\modelobasicoefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.dll
 C:\Users\fernando.henrique\backend\modelobasicoefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.pdb
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\bin\Debug\netcoreapp2.0\modelobasicoefjwt.deps.json
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\bin\Debug\netcoreapp2.0\modelobasicoefjwt.runtimeconfig.json
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\bin\Debug\netcoreapp2.0\modelobasicoefjwt.runtimeconfig.dev.json
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\bin\Debug\netcoreapp2.0\modelobasicoefjwt.dll
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\bin\Debug\netcoreapp2.0\modelobasicoefjwt.pdb
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.csproj.CoreCompileInputs.cache
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.AssemblyInfoInputs.cache
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.AssemblyInfo.cs
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.dll
+C:\Users\08929532845\Desktop\backend\modeloaulaefjwt\obj\Debug\netcoreapp2.0\modelobasicoefjwt.pdb
